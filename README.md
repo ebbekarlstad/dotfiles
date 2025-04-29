@@ -1,6 +1,6 @@
 
 # Dotfiles - Minimal i3wm Arch Linux Setup
-These are my dotfiles for my current Arch Linux i3wm setup!
+These are my dotfiles for my current Arch Linux i3wm setup! Note: These are all partly written by me and made by community members. I can't remember everyone I've "borrowed" configs from, but thanks.
 
   ![Screenshot 1](desktop.png) ![Screenshot 2](desktop2.png)
 
