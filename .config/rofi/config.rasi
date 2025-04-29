@@ -1,0 +1,23 @@
+configuration {
+    font: "Envy Code R 12";
+    line-margin: 12;
+
+    display-ssh:    "ssh";
+    display-run:    "run";
+    display-drun:   "drun";
+    display-window: "wnd";
+    display-combi:  "cmbi";
+    show-icons:     false;
+}
+
+
+@theme "~/.config/rofi/nord.rasi"
+
+listview {
+	lines: 10;       /* Slightly more lines to compensate for larger size */
+	columns: 1;     /* Changed from 2 to 1 column */
+}
+
+window {
+	width: 40%;     /* Increased from 30% */
+}
